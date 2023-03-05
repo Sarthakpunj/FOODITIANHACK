@@ -1,0 +1,212 @@
+.head {
+    display: flex;
+    justify-content: space-between;
+    align-items: left;
+    padding: 10px;
+    background-color: #d9d9d9;
+}
+.search{
+    position: relative;
+    left: 280px;
+    top: 40px;
+}
+.help{
+    padding-left: 230px;
+}
+input[type="text"] {
+    border: none;
+    padding: 5px;
+    margin-right: 10px;
+}
+.glyphicon {
+    margin-right: 10px;
+}
+  
+.Flora-cafe{
+position: absolute;    
+width: 150px;
+height: 150px;
+border-radius: 50%;
+margin-left: 95px;
+margin-top: 10px;
+}
+.DC{
+    position: absolute;
+    top:135px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: 390px;
+}
+.FC{
+    position: absolute;
+    top: 135px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: 660px;
+}
+.Aunty{
+    position: absolute;
+    top: 135px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: 960px;
+
+}
+.last-container{
+    position: absolute;
+    top:325px;
+}
+.Pi{
+    position: absolute;
+    left: 145px;
+    font-size: 18px;
+    top:10px;
+}
+.piii{
+    position: absolute;
+    left: 105px;
+    top: 300px;
+    width: 150px;
+    height: 150px;
+    border-radius: 25px;
+}
+.pa{
+    position: absolute;
+    left: 145px;
+    top: 250px;
+    font-size: 18px;
+}
+.paaa{
+    position: absolute;
+    left:105px;
+    width: 150px;
+    height: 150px;
+    border-radius: 25px;
+
+}
+.shake{
+position: absolute;
+font-size: 18px;
+left: 425px;
+bottom:110px;
+}
+.shake-img{
+    position: absolute;
+    top:45px;
+    width: 150px;
+    height: 150px;
+    border-radius: 25px;
+    left: 402px;
+}
+
+.Roll{
+    position: absolute;
+    font-size: 18px;
+    left: 710px;
+    bottom: 110px;
+
+}
+.Roll-img{
+    position: absolute;
+    top:45px;
+    width: 150px;
+    height: 150px;
+    border-radius: 25px;
+    left: 680px;
+    
+}
+.Burger{
+    position: absolute;
+    font-size: 18px;
+    left: 425px;
+    top: 250px;
+
+}
+.Burger-img{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border-radius: 25px;
+    left: 402px;
+    top: 300px;
+
+}
+.Parantha{
+    position: absolute;
+    font-size: 18px;
+    left: 700px;
+    top: 250px;
+
+}
+.Parantha-img{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border-radius: 25px;
+    left: 680px;
+    top: 300px;
+
+}
+.Biryani{
+    position: absolute;
+    font-size: 18px;
+    left: 990px;
+    bottom: 110px;
+
+}
+.Biryani-img{
+    position: absolute;
+    top:45px;
+    width: 150px;
+    height: 150px;
+    border-radius: 25px;
+    left: 990px;
+}
+.Desert{
+    position: absolute;
+    font-size: 18px;
+    left: 990px;
+    top: 250px;
+
+}
+.Desert-img{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border-radius: 25px;
+    left: 990px;
+    top: 300px;
+
+}
+
+.Flora-ca{
+    position: absolute;
+    top: 290px;
+    left: 135px;
+    font-size: 20px;
+}
+.D-C{
+    position: absolute;
+    top: 290px;
+    left: 450px;
+    font-size: 20px;
+}
+.F-C{
+    position: absolute;
+    top: 290px;
+    left: 715px;
+    font-size: 20px;
+}
+.Aunty-s{
+    position: absolute;
+    top: 290px;
+    left: 980px;
+    font-size: 20px;
+
+}  
+a{
+    color: black;
+}

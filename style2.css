@@ -1,0 +1,58 @@
+.success{
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    float: left;
+    left: 420px;
+    top: 100px;
+}
+.Success1{
+    color: green;
+    position: absolute;
+    top:190px;
+    left: 720px;
+    font-size: 55px;
+
+
+}
+.first{
+    position: absolute;
+    top: 130px;
+    left: 700px;
+    font-size: 55px;
+}
+.Main{
+    position: absolute;
+    top: 470px;
+    left: 500px;
+}
+hr{
+    position: absolute;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    width: 5%;
+    top: 400px;
+    left: 700px;
+
+}
+.second{
+    position: absolute;
+    top: 540px;
+    left: 500px;
+}
+.third{
+    position: absolute;
+    top: 600px;
+    left: 500px;
+}
+.fourth{
+    position: absolute;
+    top: 660px;
+    left: 500px;
+}
+.checked {
+    color: orange;
+  }

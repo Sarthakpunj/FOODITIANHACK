@@ -1,0 +1,48 @@
+h1{
+    position: absolute;
+    top:120px;
+    left:450px;
+    font-style: italic;
+    font-size: 45px;
+    color: brown;
+}
+.name{
+    position: absolute;
+    top:200px;
+    left: 450px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.num
+{position: absolute;
+    top:250px;
+    left: 450px;
+    font-weight: bolder;
+    font-size: 20px;
+    
+    
+
+
+}
+.pass
+{
+    position: absolute;
+    top:300px;
+    left: 450px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.re
+{
+    position: absolute;
+    top:350px;
+    left: 450px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+a{
+    position: absolute;
+    bottom:170px;
+    right: 360px;
+    font-size: 25px;
+}

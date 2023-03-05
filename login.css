@@ -1,0 +1,52 @@
+
+.first{
+position: absolute;
+left:100px;
+top:150px;
+font-size: 40px;
+font-weight:lighter ;
+    font-style: italic;
+    color:black;
+}
+.second
+{
+    position: absolute;
+    left:100px;
+    top:210px;
+    font-size: 40px;
+    font-weight:lighter ;
+    font-style: italic;
+    color:brown;
+}
+.third
+{position: absolute;
+    left:100px;
+    top:270px;
+    font-size: 40px;
+    font-weight:lighter ;
+    font-style: italic;
+    color:black;
+
+}
+.four
+{
+    position: absolute;
+    left:100px;
+    top:330px;
+    font-size: 40px;
+    font-weight:lighter ;
+    font-style: italic;
+    color: brown;
+}
+h3{
+position: absolute;
+left:430px;
+top:250px;
+font-weight: bold;
+font-size: 35px;
+}
+
+a{position: absolute;
+  bottom:20px;
+  right:40px;
+}
